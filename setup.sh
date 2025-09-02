@@ -67,7 +67,7 @@ while true; do
     fi
 
     # Menggunakan curl untuk memeriksa apakah client_name ada dalam file permission.txt
-    permission_file=$(curl -s https://raw.githubusercontent.com/cibut2d/ijin/reg/heads/main/ip)
+    permission_file=$(curl -s https://raw.githubusercontent.com/cibut2d/reg/main/ip)
     
     # Mengambil IP_VPS juga untuk validasi di izin.txt
     IP_VPS=$(curl -s https://ipinfo.io/ip) # Pastikan ini mengambil IP publik
