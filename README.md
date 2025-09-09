@@ -1,1 +1,1 @@
-<marquee style="color: #ff0000; font-size: 18px;">Project Orang Banua</marquee>
+<marquee style <font color="#ff0000">Project Orang Banua</marquee></font>
